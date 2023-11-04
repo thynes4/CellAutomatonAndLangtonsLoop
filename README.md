@@ -7,9 +7,6 @@ One Dimension CA:
 I was able to completely finish my one dimensional CA that has the ability
 to read in data from either a file or direct input.
 
-Game Of Life:
-I was unable to get my Game of Life to run, so I did not include it.
-
 Langtons Loop:
 I was able to completely finish Langtons Loop with functionality to loop when
 it reaches a border I created a file init_config_test_border.txt in the langtonsLoop
